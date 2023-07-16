@@ -114,3 +114,18 @@ li a {
   font-family: "Tektur";
   letter-spacing: 2px;
 }
+
+/* SECTION 3 */
+.quote {
+  padding: 64px 0;
+}
+
+.quote h2 {
+  text-align: center;
+  font-size: 55px;
+}
+
+.quote h3 {
+  font-size: 30px;
+  text-align: right;
+}

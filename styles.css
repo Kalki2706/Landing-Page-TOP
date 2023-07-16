@@ -77,3 +77,40 @@ li a {
   max-width: 800px;
   height: auto;
 }
+
+/* SECTION 2 */
+.more-info {
+  padding: 64px 0;
+}
+
+.more-info h2 {
+  font-size: 42px;
+  margin-bottom: 64px;
+  font-family: Raleway;
+  text-align: center;
+}
+
+.img-info-div {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.product {
+  width: 320px;
+  height: auto;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.info-title {
+  font-size: 20px;
+  font-family: "Tektur";
+  letter-spacing: 2px;
+}

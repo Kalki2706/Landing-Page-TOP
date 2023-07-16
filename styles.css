@@ -45,10 +45,6 @@ li a {
   padding: 50px 0;
 }
 
-.details {
-  /* padding-top: 40px; */
-}
-
 .details h1 {
   font-size: 64px;
   font-family: "Tektur";
@@ -80,7 +76,8 @@ li a {
 
 /* SECTION 2 */
 .more-info {
-  padding: 64px 0;
+  padding: 64px 0 100px;
+  /* background-color: red; */
 }
 
 .more-info h2 {
@@ -117,15 +114,27 @@ li a {
 
 /* SECTION 3 */
 .quote {
-  padding: 64px 0;
+  padding: 125px 0;
+  /* background-color: #fff; */
+  /* color: #000; */
+}
+
+.quote-of-com {
+  max-width: 1260px;
+  margin: 0px auto;
 }
 
 .quote h2 {
-  text-align: center;
   font-size: 55px;
+  text-align: center;
+  font-family: Raleway;
+  font-style: italic;
+  margin-bottom: 10px;
 }
 
 .quote h3 {
   font-size: 30px;
+  font-family: "Tektur";
   text-align: right;
+  font-weight: bold;
 }
